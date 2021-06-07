@@ -1,1 +1,1 @@
-# Fun-with-calculators-1
+integer calculator switching between decimal and hexadecimal formats. 
